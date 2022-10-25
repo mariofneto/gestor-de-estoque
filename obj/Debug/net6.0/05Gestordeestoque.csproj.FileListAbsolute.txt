@@ -1,0 +1,15 @@
+C:\AprendendoC#\POO\05Gestordeestoque\bin\Debug\net6.0\05Gestordeestoque.exe
+C:\AprendendoC#\POO\05Gestordeestoque\bin\Debug\net6.0\05Gestordeestoque.deps.json
+C:\AprendendoC#\POO\05Gestordeestoque\bin\Debug\net6.0\05Gestordeestoque.runtimeconfig.json
+C:\AprendendoC#\POO\05Gestordeestoque\bin\Debug\net6.0\05Gestordeestoque.dll
+C:\AprendendoC#\POO\05Gestordeestoque\bin\Debug\net6.0\05Gestordeestoque.pdb
+C:\AprendendoC#\POO\05Gestordeestoque\obj\Debug\net6.0\05Gestordeestoque.csproj.AssemblyReference.cache
+C:\AprendendoC#\POO\05Gestordeestoque\obj\Debug\net6.0\05Gestordeestoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\AprendendoC#\POO\05Gestordeestoque\obj\Debug\net6.0\05Gestordeestoque.AssemblyInfoInputs.cache
+C:\AprendendoC#\POO\05Gestordeestoque\obj\Debug\net6.0\05Gestordeestoque.AssemblyInfo.cs
+C:\AprendendoC#\POO\05Gestordeestoque\obj\Debug\net6.0\05Gestordeestoque.csproj.CoreCompileInputs.cache
+C:\AprendendoC#\POO\05Gestordeestoque\obj\Debug\net6.0\05Gestordeestoque.dll
+C:\AprendendoC#\POO\05Gestordeestoque\obj\Debug\net6.0\refint\05Gestordeestoque.dll
+C:\AprendendoC#\POO\05Gestordeestoque\obj\Debug\net6.0\05Gestordeestoque.pdb
+C:\AprendendoC#\POO\05Gestordeestoque\obj\Debug\net6.0\05Gestordeestoque.genruntimeconfig.cache
+C:\AprendendoC#\POO\05Gestordeestoque\obj\Debug\net6.0\ref\05Gestordeestoque.dll
